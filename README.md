@@ -1,0 +1,5 @@
+# Sillabe
+
+## 📄 License
+
+MIT ©
